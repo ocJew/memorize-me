@@ -25,6 +25,33 @@ Caso o jogador erre, ele recebe um aviso na tela OLED e pode reiniciar a partida
   <h2>Materiais Utilizados:</h2>
   <img src="images/materiais.png" alt="materias" width="500">  
 </div>
+<br>
+<ul>
+  <li>
+    Microcontrolador RP2040 da Raspberry Pi Pico W
+  </li>
+  <li>
+    Led RGB catodo comum 5mm
+  </li>
+  <li>
+    Resistor de 1kΩ
+  </li>
+  <li>
+    Buzzer Passivo
+  </li>
+  <li>
+    Display OLED 128x64 - 0.96 Polegadas I2C
+  </li>
+  <li>
+     Módulo 5x5 Leds RGB WS2812B 5050
+  </li>
+  <li>
+    Chave Táctil Push Button - Botão 12x12x7.5 mm
+  </li>
+  <li>
+    KY023 joystick analógico
+  </li>
+</ul>
 
 <br>
 <div align="center">
