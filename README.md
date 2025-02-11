@@ -21,15 +21,20 @@ Caso o jogador erre, ele recebe um aviso na tela OLED e pode reiniciar a partida
   OBS: a sequência de setas no Wokwi será sempre a mesma no início do jogo, pois a função <code>random()</code> se baseia no tempo de processamento, e o simulador sempre inicia com o mesmo tempo, resultando na mesma sequência aleatória.
 </p>
 
+<div align="center">
+  <h2>Materiais Utilizados:</h2>
+  <img src="images/materiais.png" alt="materias" width="500">  
+</div>
+
 <br>
 <div align="center">
-  <h2>Saídas possíveis da matriz de LEDs 5x5:</h2>
+  <h2>Saídas Possíveis da Matriz de LEDs 5x5:</h2>
   <img src="images/matriz-saida.png" alt="saidas-possiveis" width="400">  
 </div>
 
 <br>
 <div align="center">
-  <h2>Possíveis Melhorias Futuras</h2>
+  <h2>Possíveis Melhorias Futuras:</h2>
   
 </div>
 Para tornar o jogo mais desafiador, podemos adicionar novas funcionalidades que envolvem a interação com as cores das setas. Uma possível melhoria seria a introdução de uma seta vermelha, que indicaria uma direção proibida para o usuário. Assim, ele deveria escolher uma das outras três direções disponíveis, exceto a que foi sorteada e exibida em vermelho.
