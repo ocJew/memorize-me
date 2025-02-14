@@ -14,13 +14,14 @@ Caso o jogador erre, ele recebe um aviso na tela OLED e pode reiniciar a partida
   <h2>Esquemático:</h2>
   <img src="images/wokwi.png" alt="Esquemático" width="500">
 </div>
-
+<br>
 <p>
   Simulação no Wokwi: <a href="https://wokwi.com/projects/421294906683841537" target="_blank">Link</a>
   <br>
   OBS: a sequência de setas no Wokwi será sempre a mesma no início do jogo, pois a função <code>random()</code> se baseia no tempo de processamento, e o simulador sempre inicia com o mesmo tempo, resultando na mesma sequência aleatória.
 </p>
 
+<br>
 <div align="center">
   <h2>Materiais Utilizados:</h2>
   <img src="images/materiais.png" alt="materias" width="500">  
@@ -57,7 +58,13 @@ Caso o jogador erre, ele recebe um aviso na tela OLED e pode reiniciar a partida
 <div align="center">
   <h2>Saídas Possíveis da Matriz de LEDs 5x5:</h2>
   <img src="images/matriz-saida.png" alt="saidas-possiveis" width="400">  
+  <br>
+  <p>
+    Resultado: <a href="https://youtu.be/dfpexcmeDMQ?feature=shared" target="_blank">Link</a>
+  </p>
 </div>
+
+
 
 <br>
 <div align="center">
